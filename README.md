@@ -180,6 +180,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 ### Web Applications
 
 - [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere. ([MIT](https://github.com/cloverleaf/web/blob/master/LICENSE))
+- [DevToolbox](https://dannycranmer.github.io/devtoolbox/) - Free browser-based developer tools including JSON formatter, JWT decoder, Base64 encoder, and more. No data leaves your device. ([MIT](https://github.com/dannycranmer/devtoolbox/blob/main/LICENSE))
 - [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and web interface. ([GNU AGPLv3](https://github.com/dnote/dnote/blob/master/licenses/AGPLv3.txt))
 - [DocuSeal](https://www.docuseal.co/) - A platform to fill and sign digital documents. ([GNU AGPLv3](https://github.com/docusealco/docuseal/blob/master/LICENSE))
 - [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
