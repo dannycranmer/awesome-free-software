@@ -96,6 +96,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Blender](https://www.blender.org/) - 3D creation suite for modeling, simulation, and animation. ([GNU GPLv2+](https://www.blender.org/about/license/))
 - [ExifCleaner](https://exifcleaner.com/) - GUI app to remove exif metadata from images and videos with simple drag and drop. ([MIT](https://github.com/szTheory/exifcleaner/blob/master/LICENSE))
 - [GIMP](http://www.gimp.org/) - Image manipulation software. ([GNU GPLv3](https://www.gimp.org/about/COPYING))
+- [PicBrew](https://picbrew.org/) - Free browser-based image tools for compression, resizing, conversion, and cropping. Files never leave your device. ([MIT](https://github.com/dannycranmer/imagetoolkit/blob/main/LICENSE))
 - [Inkscape](https://inkscape.org) - Professional vector graphics editor for all platforms. ([GNU GPL](https://bazaar.launchpad.net/~inkscape.dev/inkscape/trunk/view/head:/COPYING))
 - [Krita](https://krita.org) - Painting program made by artists. ([GNU GPLv3](https://phabricator.kde.org/source/krita/browse/master/COPYING))
 - [Pinta](https://pinta-project.com/) - Gtk# clone of Paint.NET. ([MIT](https://github.com/PintaProject/Pinta/blob/master/license-mit.txt))
@@ -180,6 +181,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 ### Web Applications
 
 - [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere. ([MIT](https://github.com/cloverleaf/web/blob/master/LICENSE))
+- [DevBrew](https://devbrew.org/) - Free browser-based developer tools including JSON formatter, JWT decoder, Base64 encoder, and more. No data leaves your device. ([MIT](https://github.com/dannycranmer/devtoolbox/blob/main/LICENSE))
 - [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and web interface. ([GNU AGPLv3](https://github.com/dnote/dnote/blob/master/licenses/AGPLv3.txt))
 - [DocuSeal](https://www.docuseal.co/) - A platform to fill and sign digital documents. ([GNU AGPLv3](https://github.com/docusealco/docuseal/blob/master/LICENSE))
 - [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
@@ -197,6 +199,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
 - [NotABug.org](https://notabug.org/) - Collaboration platform for freely licensed projects. ([MIT](https://notabug.org/hp/gogs/src/master/LICENSE))
 - [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license. ([GNU GPLv2](https://git.openstreetmap.org/rails.git/blob/HEAD:/LICENSE))
+- [Parchment](https://parchpdf.com/) - Free, private PDF tools that run entirely in the browser. Merge, split, compress, and convert PDFs without uploading files. ([MIT](https://github.com/dannycranmer/parchment/blob/main/LICENSE))
 - [PeerTube](https://framagit.org/chocobozzz/PeerTube) - Decentralized video streaming service. ([GNU AGPLv3](https://framagit.org/chocobozzz/PeerTube/blob/develop/LICENSE))
 - [Phabricator](https://phacility.com/phabricator/) - Code management platform (similar to GitLab) built with PHP. ([Apache License 2.0](https://github.com/phacility/phabricator/blob/master/LICENSE))
 - [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform. ([Apache License 2.0](https://github.com/tolgee/tolgee-platform/blob/main/LICENSE))
